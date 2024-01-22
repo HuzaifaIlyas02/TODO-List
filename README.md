@@ -38,7 +38,7 @@ I followed a systematic process while building the ToDo List App:
 
 5. **Local Storage**: Integrated local storage for data persistence across page reloads.
 
-6. **Styling**: Applied CSS styles for a visually appealing and user-friendly interface.
+6. **Styling**: Applied CSS styles for a visually appeaxxrxrling and user-friendly interface.
 
 ## Future Improvements
 
@@ -48,4 +48,4 @@ I followed a systematic process while building the ToDo List App:
 
 ## Demo Video
 
-![](https://github.com/HuzaifaIlyas02/TODO-List/assets/86406012/e292a4be-60c5-44e7-931a-8f6c29a45b47)
+https://github.com/HuzaifaIlyas02/TODO-List/assets/86406012/e292a4be-60c5-44e7-931a-8f6c29a45b47
